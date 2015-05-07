@@ -5,10 +5,11 @@
 ```bash
 $ composer install
 $ npm install
+```
 
 # Utilisation sans affichage du navigateur (phantomjs)
 
-```
+```bash
 $ ./node_modules/phantomjs/bin/phantomjs --webdriver=4444
 ```
 
